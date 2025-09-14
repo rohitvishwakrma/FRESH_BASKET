@@ -1,0 +1,6 @@
+{
+  "[javascript]": {
+    "editor.detectIndentation": true
+  },
+  "git.ignoreLimitWarning": true
+}
